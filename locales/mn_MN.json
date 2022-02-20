@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "greeting": "Сайн байна уу {{user_first_name}}! RedPoint хуудсанд тавтай морилно уу."
+  },
+  "menu": {
+    "support": "Хэрэглэгчийн туслах",
+    "order": "Хүргэлтийн мэдээлэл",
+    "help": "Ажилтантай холбогдох",
+    "suggestion": "Санал болгох",
+    "shop": "Дэлгүүр хэсэх",
+    "start_over": "Дахин эхлэх"
+  },
+  "get_started": {
+    "welcome": "Hi {{userFirstName}}! Welcome to Original Coast Clothing where you'll find styles for every occasion.",
+    "guidance": "At any time, use the menu below to navigate through the features",
+    "help": "What we can do to help you today?"
+  }
+}
